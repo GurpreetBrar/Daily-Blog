@@ -54,7 +54,7 @@ JQuery is a JavaScript library designed to simplify HTML DOM tree traversal and 
 - Then went on to learn about Events(Handling Mouse Events & Keyboard Events) and Forms
 - Practiced hands-on 
 
-
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 *Week 4 : 23-Feb-2022 to 28-Feb-2022* 
 ## Brief Intro about Bootstrap
 
@@ -66,7 +66,7 @@ It is a front-end framework used for easier and faster web development. It inclu
 - We learnt about some more topics such as Navbars and Flexbox, Magical Grid System from the Udemy course provided
 - Practiced hands-on 
 
-
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 *Week 5 : 1-March-2022 to 8-March-2022* 
 ## Brief Intro about SQL
 
